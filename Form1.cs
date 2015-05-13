@@ -16,11 +16,5 @@ namespace Techro_Web_Browser
         {
             InitializeComponent();
         }
-
-        //go button
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
